@@ -1,4 +1,4 @@
-[11/27/2025 9:19 PM] SQL: CREATE TABLE Customers (
+CREATE TABLE Customers (
     CustomerID INT,
     FullName VARCHAR(255),
     DOB DATE,
