@@ -49,7 +49,7 @@ The database contains multiple interconnected tables representing banking servic
 - UserAccessLogs
 - CyberSecurityIncidents
 
-https://github.com/shabanovjavohir02/Banking_System_Project/blob/main/image_of_schema/Banking_system.jpg?raw=true
+
 
 ## Data Generation
 To simulate a realistic banking environment, large-scale synthetic datasets were generated using **Python and the Faker library (uz_UZ locale)**. The generated data includes thousands of records for customers, accounts, transactions, loans, and digital banking activities. All datasets were exported as **CSV files** and imported into the SQL database.
